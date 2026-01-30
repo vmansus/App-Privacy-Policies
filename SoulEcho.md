@@ -8,7 +8,7 @@
 
 ### Introduction
 
-MoodEcho ("we", "our", or "the app") is committed to protecting your privacy. This Privacy Policy explains how we handle your information when you use our voice mood diary application.
+SoulEcho ("we", "our", or "the app") is committed to protecting your privacy. This Privacy Policy explains how we handle your information when you use our voice mood diary application.
 
 ### Data Collection and Storage
 
@@ -51,7 +51,7 @@ You can delete all your data at any time:
 
 ### Children's Privacy
 
-MoodEcho does not knowingly collect information from children under 13. The app is suitable for all ages and contains no inappropriate content.
+SoulEcho does not knowingly collect information from children under 13. The app is suitable for all ages and contains no inappropriate content.
 
 ### Changes to This Policy
 
@@ -67,7 +67,7 @@ If you have questions about this Privacy Policy, please contact us through the A
 
 ### 简介
 
-MoodEcho（"我们"或"本应用"）致力于保护您的隐私。本隐私政策说明了我们在您使用语音情绪日记应用时如何处理您的信息。
+SoulEcho（"我们"或"本应用"）致力于保护您的隐私。本隐私政策说明了我们在您使用语音情绪日记应用时如何处理您的信息。
 
 ### 数据收集与存储
 
@@ -110,7 +110,7 @@ MoodEcho（"我们"或"本应用"）致力于保护您的隐私。本隐私政�
 
 ### 儿童隐私
 
-MoodEcho 不会故意收集 13 岁以下儿童的信息。本应用适合所有年龄段，不包含任何不当内容。
+SoulEcho 不会故意收集 13 岁以下儿童的信息。本应用适合所有年龄段，不包含任何不当内容。
 
 ### 政策变更
 
